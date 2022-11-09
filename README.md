@@ -45,11 +45,5 @@ Multiple action choice that triggers different scenes
 
 # How to use
 
-First you need to download the "game" folder from here:
-
-https://mega.nz/file/lbwGxaRK#ZIn2NvwBm7lYCjL_9dc7RevJ6menP_5_0YQldDG8kTg
-
-and extract it in the "scct" folder.
-
-Then compile it in netbeans or use the compile bash script provided (needs maven)
+Download the binary release and use the scripts provided
 
