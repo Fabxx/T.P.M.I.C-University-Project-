@@ -1,7 +1,7 @@
 # T.P.M.I.C-University-Project-
 T.P.M.I.C (The Philip Masse Informatic Crysis) is a Java Swing interactive Adventure, inspired by Splinter cell Chaos Theory videogame
 
-#Tools used
+# Tools used
 
 -OBS For recording the scenes
 
