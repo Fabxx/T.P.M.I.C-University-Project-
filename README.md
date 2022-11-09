@@ -3,12 +3,17 @@ T.P.M.I.C (The Philip Masse Informatic Crysis) is a Java Swing interactive Adven
 
 #Tools used
 
-OBS For recording the scenes
-ffmpeg (video to audio conversion and video to frame sequence conversion)
-shotcut (video editing)
-maven for project management
-vs code for code writing
-netbeans for error/warning checks
+-OBS For recording the scenes
+
+-ffmpeg (video to audio conversion and video to frame sequence conversion)
+
+-shotcut (video editing)
+
+-maven for project management
+
+-vs code for code writing
+
+-netbeans for error/warning checks
 
 #video examples
 
